@@ -1,5 +1,5 @@
 # Bebe - My best project
-
+**Note:** To see my work, open the C# files in the [Assets folder](https://github.com/iFralex/Bebe/tree/main/Assets) and subfolders.
 ## Game Overview
 
 - **Game Genre:** Bebe is a 2D vertical platformer developed in Unity.
