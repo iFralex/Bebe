@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2878826055
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: natura paesaggio
+      Dependencies: {}
+    Info_1:
+      Name: campagna paesaggio
+      Dependencies: {}
+    Info_2:
+      Name: western paesaggio
+      Dependencies: {}

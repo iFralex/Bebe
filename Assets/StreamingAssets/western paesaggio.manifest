@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1537808007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acae37e4443642d1476de61bbf6febf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e1fbd953a670ee511863bc6eb80cd73
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sfondi 3D/western paesaggio/Texture/Box003_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/lambert2_albedo.jpg
+- Assets/sfondi 3D/western paesaggio/Texture/Line001.004_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/blue-sky-with-white-clouds-clear-sunny-day_136277-267.jpg
+- Assets/sfondi 3D/western paesaggio/Texture/Object024.001_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Object003_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Untitled.png
+- Assets/sfondi 3D/western paesaggio/Texture/house 1.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box027.001_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box597_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box037_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box015_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box425_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box360.001_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/base.png
+- Assets/sfondi 3D/western paesaggio/Texture/cliff_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/House 2.png
+- Assets/sfondi 3D/western paesaggio/Texture/Plane.001_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box067_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Rura Western Landscape.blend
+- Assets/sfondi 3D/western paesaggio/western.prefab
+- Assets/sfondi 3D/western paesaggio/Texture/StoneTable_Mat_albedo.jpg
+- Assets/sfondi 3D/western paesaggio/Texture/telhado_hotel.001_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Box010_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/western paesaggio/Texture/Back Base.png
+Dependencies: []

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 4278277394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81a8ff0f9a02dd2eadc4a1956de1eb1b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e1fbd953a670ee511863bc6eb80cd73
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sfondi 3D/luna paesaggio/8k_saturn.jpg
+- Assets/sfondi 3D/luna paesaggio/lunarlandscape.blend
+- Assets/sfondi 3D/luna paesaggio/Untitled.png
+- Assets/sfondi 3D/luna paesaggio/House 2.png
+- Assets/sfondi 3D/luna paesaggio/moon surface.png
+- Assets/sfondi 3D/luna paesaggio/Default_OBJ.005_baseColor.png
+- Assets/sfondi 3D/luna paesaggio/8k_saturn_ring_alpha.png
+- Assets/sfondi 3D/luna paesaggio/hdmoon.png
+- Assets/sfondi 3D/luna paesaggio/heic1522a.jpg
+- Assets/sfondi 3D/luna paesaggio/luna.prefab
+- Assets/sfondi 3D/luna paesaggio/BB8 codyweaverdesigncom.jpeg
+- Assets/sfondi 3D/luna paesaggio/Default_OBJ.005_normal.png
+Dependencies: []

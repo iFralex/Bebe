@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1684433734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d792c41d4d50fa0d5e53382ce7dc1e72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7175ecd1b62935b7b0553d3b38d70df3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sfondi 3D/campagna paesaggio/campagna sfondo prefab.prefab
+- Assets/sfondi 3D/campagna paesaggio/Countryside.fbm/alayx-wallpaper-blue-sky-background-9L21cI-clipart.jpg
+- Assets/sfondi 3D/campagna paesaggio/campagna modello.fbx
+- Assets/sfondi 3D/campagna paesaggio/Countryside.fbm/cabane_D.png
+- Assets/sfondi 3D/campagna paesaggio/Countryside.fbm/tree_2.png
+- Assets/sfondi 3D/campagna paesaggio/Countryside.fbm/Untitled.png
+- Assets/sfondi 3D/campagna paesaggio/Countryside.fbm/FIRSTGROUND.png
+Dependencies: []

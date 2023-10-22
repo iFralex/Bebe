@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2806268515
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: natura paesaggio
+      Dependencies: {}
+    Info_1:
+      Name: campagna paesaggio
+      Dependencies: {}
+    Info_2:
+      Name: caverna di lava
+      Dependencies: {}
+    Info_3:
+      Name: "citt\xE0 di giorno"
+      Dependencies:
+        Dependency_0: "citt\xE0 di notte"
+    Info_4:
+      Name: "citt\xE0 di notte"
+      Dependencies: {}
+    Info_5:
+      Name: deserto
+      Dependencies: {}
+    Info_6:
+      Name: ghiacciaio
+      Dependencies: {}
+    Info_7:
+      Name: luna
+      Dependencies: {}
+    Info_8:
+      Name: marte
+      Dependencies: {}
+    Info_9:
+      Name: western paesaggio
+      Dependencies: {}

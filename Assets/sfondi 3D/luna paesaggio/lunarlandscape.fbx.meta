@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 3aec3359f41454996894bf25193d49bc
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -3198600084009825845
+    second: Box385|Box385|Take 001|BaseLayer
+  - first:
+      74: 5161104465182001120
+    second: Box385|Box386|Take 001|BaseLayer
+  - first:
+      74: -3695547100968700631
+    second: Box385|Box390|Take 001|BaseLayer
+  - first:
+      74: 2090558114339114269
+    second: Box385|Box391|Take 001|BaseLayer
+  - first:
+      74: 5145976676933849737
+    second: Box385|Box392|Take 001|BaseLayer
+  - first:
+      74: 3835710676823651939
+    second: Box385|Box393|Take 001|BaseLayer
+  - first:
+      74: -4682990969279694020
+    second: Box385|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: -2644829991495260637
+    second: Box385|Saturn|Take 001|BaseLayer
+  - first:
+      74: 2663565956021526849
+    second: Box386|Box385|Take 001|BaseLayer
+  - first:
+      74: 8050627452478684064
+    second: Box386|Box386|Take 001|BaseLayer
+  - first:
+      74: 6445343416318261037
+    second: Box386|Box390|Take 001|BaseLayer
+  - first:
+      74: 4804810773298385834
+    second: Box386|Box391|Take 001|BaseLayer
+  - first:
+      74: -1399133073062691407
+    second: Box386|Box392|Take 001|BaseLayer
+  - first:
+      74: 2413018992991038576
+    second: Box386|Box393|Take 001|BaseLayer
+  - first:
+      74: -614225527833117536
+    second: Box386|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: -4013814081490566868
+    second: Box386|Saturn|Take 001|BaseLayer
+  - first:
+      74: -2664352634698738891
+    second: Box390|Box385|Take 001|BaseLayer
+  - first:
+      74: 5600325153622790131
+    second: Box390|Box386|Take 001|BaseLayer
+  - first:
+      74: -1065685019979085321
+    second: Box390|Box390|Take 001|BaseLayer
+  - first:
+      74: 4348819845307131695
+    second: Box390|Box391|Take 001|BaseLayer
+  - first:
+      74: -3370316136300921233
+    second: Box390|Box392|Take 001|BaseLayer
+  - first:
+      74: 7112178179355516010
+    second: Box390|Box393|Take 001|BaseLayer
+  - first:
+      74: -7079604857430181977
+    second: Box390|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: 3588604923214278327
+    second: Box390|Saturn|Take 001|BaseLayer
+  - first:
+      74: 1659434450913653912
+    second: Box391|Box385|Take 001|BaseLayer
+  - first:
+      74: -7862490357030168779
+    second: Box391|Box386|Take 001|BaseLayer
+  - first:
+      74: -6772525073333987966
+    second: Box391|Box390|Take 001|BaseLayer
+  - first:
+      74: -3982621053090557276
+    second: Box391|Box391|Take 001|BaseLayer
+  - first:
+      74: -9093030684414679064
+    second: Box391|Box392|Take 001|BaseLayer
+  - first:
+      74: 1598777638969593130
+    second: Box391|Box393|Take 001|BaseLayer
+  - first:
+      74: 3538535359803257390
+    second: Box391|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: 7697323361676851644
+    second: Box391|Saturn|Take 001|BaseLayer
+  - first:
+      74: -2212494502634918537
+    second: Box392|Box385|Take 001|BaseLayer
+  - first:
+      74: 1001695839442407332
+    second: Box392|Box386|Take 001|BaseLayer
+  - first:
+      74: -7704249063648262709
+    second: Box392|Box390|Take 001|BaseLayer
+  - first:
+      74: -3807220467522015166
+    second: Box392|Box391|Take 001|BaseLayer
+  - first:
+      74: -4751976935703300816
+    second: Box392|Box392|Take 001|BaseLayer
+  - first:
+      74: 4030161408145051011
+    second: Box392|Box393|Take 001|BaseLayer
+  - first:
+      74: 161657696407892752
+    second: Box392|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: 8674901841236058764
+    second: Box392|Saturn|Take 001|BaseLayer
+  - first:
+      74: 1534458139313755399
+    second: Box393|Box385|Take 001|BaseLayer
+  - first:
+      74: 2940646462396192844
+    second: Box393|Box386|Take 001|BaseLayer
+  - first:
+      74: -731214285488571877
+    second: Box393|Box390|Take 001|BaseLayer
+  - first:
+      74: -7827006955597407609
+    second: Box393|Box391|Take 001|BaseLayer
+  - first:
+      74: -4525041279229701126
+    second: Box393|Box392|Take 001|BaseLayer
+  - first:
+      74: -6641958970597473426
+    second: Box393|Box393|Take 001|BaseLayer
+  - first:
+      74: -2245613050818635656
+    second: Box393|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: 6914155621699424064
+    second: Box393|Saturn|Take 001|BaseLayer
+  - first:
+      74: -2464460946350980895
+    second: Camera|Box385|Take 001|BaseLayer
+  - first:
+      74: -8724890827719763315
+    second: Camera|Box386|Take 001|BaseLayer
+  - first:
+      74: 4082089921595069307
+    second: Camera|Box390|Take 001|BaseLayer
+  - first:
+      74: -1248396253270144101
+    second: Camera|Box391|Take 001|BaseLayer
+  - first:
+      74: 8454157574480548158
+    second: Camera|Box392|Take 001|BaseLayer
+  - first:
+      74: 5827179064574754847
+    second: Camera|Box393|Take 001|BaseLayer
+  - first:
+      74: 6683483372452137400
+    second: Camera|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: 6193301620220318543
+    second: Camera|Saturn|Take 001|BaseLayer
+  - first:
+      74: -7487589836428470319
+    second: Saturn|Box385|Take 001|BaseLayer
+  - first:
+      74: 4222048266515018589
+    second: Saturn|Box386|Take 001|BaseLayer
+  - first:
+      74: 2536447182871364925
+    second: Saturn|Box390|Take 001|BaseLayer
+  - first:
+      74: 4480499709384412872
+    second: Saturn|Box391|Take 001|BaseLayer
+  - first:
+      74: 6089696846087785509
+    second: Saturn|Box392|Take 001|BaseLayer
+  - first:
+      74: 4593450036448245793
+    second: Saturn|Box393|Take 001|BaseLayer
+  - first:
+      74: 5396295208724251058
+    second: Saturn|Saturn Clouds|Take 001|BaseLayer
+  - first:
+      74: 8714062774500249696
+    second: Saturn|Saturn|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

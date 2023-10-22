@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 950753559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e53207e8301bb34d8e065a622e402761
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8e1fbd953a670ee511863bc6eb80cd73
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/palmTr.png
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/kak_02_DIFF.jpeg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/alayx-wallpaper-blue-sky-background-9L21cI-clipart.jpg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/palmsTreesTexture.png
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/plant_DIFF.jpeg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/large rock painted
+  2.png
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/kak_06_DIFFUSE.jpeg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/flower_DIFF.jpeg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/kak_04_DIFF.jpeg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/Large Rock painted.png
+- Assets/sfondi 3D/deserto paesaggio/deserto.prefab
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbx
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/kak_05_DIFF.jpeg
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/Ground.001_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/Ground .png
+- Assets/sfondi 3D/deserto paesaggio/RE Desert Background.fbm/large rock 3 painted.png
+Dependencies: []

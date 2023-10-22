@@ -1,0 +1,499 @@
+ManifestFileVersion: 0
+CRC: 4174728318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86851f16b00bbb5b55d60a4018d43721
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2eeeea1f39c0c3cd187d38ba96e63f78
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1cb7e9e120078f43bce4f0b1be547a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40b924e2dad56384a8df2a1e111bb675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 556797029e73b2347956b6579e77e05b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: adb84e30e02715445aeb9959894e3b4d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.AmbientOcclusionModeParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.AmbientOcclusionQualityParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.BoolParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.ColorParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.FloatParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.GradingModeParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.KernelSizeParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Spline
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.SplineParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TextureParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.TonemapperParameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Vector2Parameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.Vector4Parameter
+- AssemblyName: Unity.Postprocessing.Runtime
+  ClassName: UnityEngine.Rendering.PostProcessing.VignetteModeParameter
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v1_02.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_log_burn.mat
+- Assets/sfondi 3D/natura paesaggio/settings/PPP_demoscene_assets.asset
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_FX_glow.png
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v2_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_FX_sprite_steam_nature_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v2_01.fbx
+- Assets/sfondi 3D/natura paesaggio/shaders/S_foliage_wind_standard_advanced.shader
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v2_03_cut.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_01_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_05_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_GRASS_v1_01_FNP.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/FX/P_FX_steam.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trunks/SM_ENV_TREE_trunk_v1_02.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_woodlog.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_02_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_tendril_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_04_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_02.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_04_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_fishingrod.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v2_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_waterlily_02.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v4_06.fbx
+- Assets/sfondi 3D/natura paesaggio/materials/M_PLANT_grass_anim_FNP.mat
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_04_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_03.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_log_burn_E.png
+- Assets/sfondi 3D/natura paesaggio/materials/M_demosceneassets_ground.mat
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_tent.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_10.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_set_camping_BC.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_13.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_flower_v1_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/stumps/SM_ENV_TREE_stump_v1_02.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_metal_N.png
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_02_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_05_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_SKYBOX_night.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_ENV_PLANT_leaves_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_flower_v1_04.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v3_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_03_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_03_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_04_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_sleepingbag.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_08.prefab
+- Assets/sfondi 3D/natura paesaggio/animation/Point Light_fire_field.controller
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v3_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_03_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v1_01_cut.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_03.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_01_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/stumps/SM_ENV_TREE_stump_v2_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_01_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_flower_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_04.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_FX_leaf.png
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v3_03.fbx
+- Assets/sfondi 3D/natura paesaggio/settings/PPP_demoscene_night.asset
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v1_01_cut.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v3_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_01_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_02_BC.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_03.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v1_03.fbx
+- Assets/sfondi 3D/natura paesaggio/shaders/S_foliage_wind_standard_simple.shader
+- Assets/sfondi 3D/natura paesaggio/3d/trees/stumps/SM_ENV_TREE_stump_v1_04.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_02_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_06.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_FOOD_fish.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v6_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_flower_v1_04.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_03_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_grass_v1_03_FNP.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_set_camping_OLD.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v2_04.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_SKYBOX_day.png
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v4_06_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_FOOD_bread_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_bottle_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v5_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_woodpile.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v3_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_cup_wood_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v3_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_bowl_wood_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_03_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_stone_01_BC.tga
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_04_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_GRASS_v1_02_FNP.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_pot.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v3_03.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_04_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_grass_v1_02_FNP.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_03_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v1_02.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_01_light_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v2_01_cut.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_02_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_FOOD_cheese_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/roots/SM_ENV_TREE_root_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_gravel_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/FX/P_FX_leaves_FNP.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_tendril_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v3_01.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_grass_N.png
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_stone_01.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_04_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_03_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v6_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_bowl_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v4_07_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v2_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_fishingrod.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_pan_lid_01.prefab
+- Assets/sfondi 3D/natura paesaggio/livello natura.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_TERRAIN_gravel.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v3_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_14.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_04.fbx
+- Assets/sfondi 3D/natura paesaggio/materials/M_PLANT_atlas_anim_FNP.mat
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_sleepingbag.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_FOOD_fish.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v3_02.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_pan_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v1_02_cut.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_08.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_campfire.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_03_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_pan_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v2_01_cut.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_02_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v2_02.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v6_02.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v5_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_01_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_woodlog.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_campfire_poles.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_woodpile.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v2_03.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_02.fbx
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_03.mat
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trunks/SM_ENV_TREE_trunk_v1_03.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_set_camping.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v1_05.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_01_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_02_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_01_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v3_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_cup_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_PLANT_atlas_static_FNP.mat
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v1_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v1_03_cut.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_knife.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_05_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_TERRAIN_leaves.mat
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v1_03_cut.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_01_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v3_01_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_waterlily_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_15.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_TERRAIN_dirt.mat
+- Assets/sfondi 3D/natura paesaggio/natura shader.shadervariants
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v4_06_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v3_01_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_waterlily_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_plate_metal.fbx
+- Assets/sfondi 3D/natura paesaggio/shaders/S_foliage_wind_standard_advanced_lit.shader
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_01_light.mat
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_15.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v3_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_04.mat
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v2_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_03_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_04_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v3_01.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_dirt_BC.tga
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_grass_v1_01_FNP.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_06.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_04_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_tent.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_flower_v1_02.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v2_03.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v1_03.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_flower_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_05.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_plants_01_BC.png
+- Assets/sfondi 3D/natura paesaggio/shaders/S_doublesided_lit.shader
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v1_04.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_spoon_wood_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_plate_metal.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_pot.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_03_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_13.fbx
+- Assets/sfondi 3D/natura paesaggio/materials/M_cloth.mat
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v2_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_waterlily_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v2_02_cut.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_02_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_gravel_BC.tga
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_metal_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_ENV_PLANT_leaves_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/stumps/SM_ENV_TREE_stump_v1_03.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_01_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bud_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_ENV_PLANT_leaves_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v2_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_11.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v1_05.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trunks/SM_ENV_TREE_trunk_v2_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_stump_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_FOOD_fish_slice.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_03_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v2_03.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_dirt_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/FX/P_FX_particle_glow_yellow.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_04_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_FX_steam.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_03_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_stump.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_10.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_01.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v1_03.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_flower_v1_03.fbx
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_stone_02.mat
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_FOOD_cheese_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_sand_BC.tga
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_04_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_campfire_rack.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v4_06_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_campfire.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_grass_atlas_01_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v4_07.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v2_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_GRASS_v1_03_FNP.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_ENV_PLANT_leaves_03.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v3_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_02_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_03_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/FX/P_FX_fire.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_01_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_03.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_log_burn_BC.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_03.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_01_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v3_01_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_02_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_02_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_flower_v1_02.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_SKYBOX_night.mat
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_cloth_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_FOOD_bread_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_12.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_TERRAIN_sand.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/FX/P_FX_water_FNP.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v4_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_campfire_holder.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/roots/SM_ENV_TREE_root_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_02_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_set_camping.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_04_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_cloth_N.png
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_grass_v2_01_FNP.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_02.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_14.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_04.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_03_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_TERRAIN_grass_01.mat
+- Assets/sfondi 3D/natura paesaggio/3d/trees/stumps/SM_ENV_TREE_stump_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/materials/M_FX_water.mat
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_stone_02_BC.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_07.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_metal.mat
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_02_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v3_01_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/settings/InformationPanel.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_spoon_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_FX_leaf.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v4_01.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_wood_02.mat
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v3_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v2_02.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_03_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v1_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v1_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_pan_lid_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_09.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v2_03.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v2_03_cut.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_SKYBOX_day.mat
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trunks/SM_ENV_TREE_trunk_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_01_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_09.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_ENV_PLANT_leaves_02.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_03.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_FX_fire.mat
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_FX_sprite_fire_steam.png
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_bottle_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trunks/SM_ENV_TREE_trunk_v3_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_leaves_BC.tga
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v2_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/roots/SM_ENV_TREE_root_03.fbx
+- Assets/sfondi 3D/natura paesaggio/shaders/S_foliage_wind_standard_simple_lit.shader
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v2_03_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_05.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_ENV_TERRAIN_grass_02.mat
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_PROP_FOOD_fish_slice.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_07.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v2_05.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_grass_02_BC.tga
+- Assets/sfondi 3D/natura paesaggio/prefabs/props/P_ENV_PLANT_leaves_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v4_07_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_01_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v6_01.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bush_v2_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_02_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_campfire_holder.fbx
+- Assets/sfondi 3D/natura paesaggio/settings/PPP_demoscene_day.asset
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_GRASS_v2_01_FNP.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_bud_v1_01.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_01_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/materials/M_set_camping.mat
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trunks/SM_ENV_TREE_trunk_v1_04.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v3_01_wood_02.prefab
+- Assets/sfondi 3D/natura paesaggio/animation/Water_sea.controller
+- Assets/sfondi 3D/natura paesaggio/shaders/S_water_standard.shader
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v4_07_COLLISION.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_knife.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_root_02_wood_04.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_sand_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v2_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v1_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/stones/P_ENV_stone_11.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_bush_BC.png
+- Assets/sfondi 3D/natura paesaggio/3d/stones/SM_ENV_stone_12.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v2_02_cut.fbx
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v3_01_wood_03.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v2_01_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_01_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v2_05.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_wood_01_BC.png
+- Assets/sfondi 3D/natura paesaggio/materials/M_FX_glow.mat
+- Assets/sfondi 3D/natura paesaggio/3d/props/SM_PROP_campfire_poles.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_shroom_v1_02_cut.fbx
+- Assets/sfondi 3D/natura paesaggio/animation/Point Light_fire.controller
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_leaves_N.png
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_stone_N.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_leaf_v3_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_stump_v2_01_shrooms.prefab
+- Assets/sfondi 3D/natura paesaggio/terrain_data/Terrain_v1.5.asset
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_v1_02_wood_01.prefab
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_bush_v4_01.prefab
+- Assets/sfondi 3D/natura paesaggio/3d/trees/trees/SM_ENV_TREE_v2_05.fbx
+- Assets/sfondi 3D/natura paesaggio/3d/plants/SM_ENV_PLANT_leaf_v4_01.fbx
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_plants_E.png
+- Assets/sfondi 3D/natura paesaggio/prefabs/plants/P_ENV_PLANT_shroom_v1_03.prefab
+- Assets/sfondi 3D/natura paesaggio/2d/textures/T_ENV_TERRAIN_grass_01_BC.tga
+- Assets/sfondi 3D/natura paesaggio/prefabs/trees/P_ENV_TREE_trunk_v1_04.prefab
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2579295590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef2417462c03b2900c4a0abab10b3cbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7175ecd1b62935b7b0553d3b38d70df3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/sfondi 3D/marte paesaggio/marte.prefab
+- Assets/sfondi 3D/marte paesaggio/Mars landscape.fbm/rockss.png
+- Assets/sfondi 3D/marte paesaggio/Mars landscape.fbm/Plane.305_Bake1_pbr_diffuse.png
+- Assets/sfondi 3D/marte paesaggio/Mars landscape.fbm/rcks.png
+- Assets/sfondi 3D/marte paesaggio/Mars landscape.blend
+Dependencies: []

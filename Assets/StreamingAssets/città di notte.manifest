@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2630528506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c8b3c435c3cc74384134de73a83dbbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7175ecd1b62935b7b0553d3b38d70df3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/Plane.023_Bake1_pbr_diffuse.png"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/Building 2.png"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/building far 1.png"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/Road.png"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/Circle.002_Bake1_pbr_diffuse.png"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/Palette.jpeg"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbm/blue-sky-with-white-clouds-clear-sunny-day_136277-267.jpg"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/citt\xE0 di notte.prefab"
+- "Assets/sfondi 3D/citt\xE0 di notte paesaggio/Nightscape.fbx"
+Dependencies: []
